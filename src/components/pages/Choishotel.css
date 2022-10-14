@@ -1,0 +1,51 @@
+/* la page ou l'on choisi l'un des hotel*/
+
+@media only screen and (max-width: 420px) {
+    
+    .image1{
+        background-image: url(./image/image1.png);
+        background-repeat: no repeat;
+        height: 60vw;
+    }
+    .map{
+        background-image: url(./image/Rectangle.png);
+        background-repeat: no-repeat;
+        height: 80vw;
+        margin-top: 5vw;
+    }
+    .reservation{
+        height: 40px;
+        width: 150px;
+        background-color: #19A3FF;
+        border-radius: 20px;
+        color: white;
+        margin-top: 55vw;
+        margin-left: 30vw;     
+        
+    }
+     h3{
+        margin-top: -45px;
+        margin-left: 40px;
+        width: 214px;
+    }
+    .icons{
+        margin-left: 35px;
+        margin-top: 20px;
+        
+    }
+    .text{
+        margin-left: 10px;
+    }
+    .image-vector{
+        margin-left: 10px;
+    }
+    .hotel h1{
+        margin-left: 10px;
+    }
+    .menu img{
+        margin-left: 87vw;
+        margin-top: 10vw;
+    
+    }
+    
+  }
